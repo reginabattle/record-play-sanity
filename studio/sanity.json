@@ -2,7 +2,7 @@
   "root": true,
   "project": {
     "name": "Record Play",
-    "basePath": "record-play-sanity.netlify.com"
+    "basePath": "/studio"
   },
   "api": {
     "projectId": "3ini36sr",
